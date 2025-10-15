@@ -7,6 +7,12 @@ A comprehensive, interactive web-based tutorial covering fundamental concepts of
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## 🌐 Live Demo
+
+🔗 **[View Live Tutorial](https://stone98.github.io/BasicResidentialElectricity/)**
+
+Experience the complete interactive tutorial with all features including the quiz system and responsive design.
+
 ## 📚 Overview
 
 This tutorial website is designed to teach the basics of residential electricity to homeowners, students, and anyone interested in understanding how electrical systems work in American homes. The content is presented in an easy-to-understand format with practical examples and safety information.
